@@ -1,0 +1,6 @@
+D:\Reps\GeometricFiguresTask\GeometricFiguresLib\bin\Debug\GeometricFiguresLib.dll
+D:\Reps\GeometricFiguresTask\GeometricFiguresLib\bin\Debug\GeometricFiguresLib.pdb
+D:\Reps\GeometricFiguresTask\GeometricFiguresLib\obj\Debug\GeometricFiguresLib.csproj.AssemblyReference.cache
+D:\Reps\GeometricFiguresTask\GeometricFiguresLib\obj\Debug\GeometricFiguresLib.csproj.CoreCompileInputs.cache
+D:\Reps\GeometricFiguresTask\GeometricFiguresLib\obj\Debug\GeometricFiguresLib.dll
+D:\Reps\GeometricFiguresTask\GeometricFiguresLib\obj\Debug\GeometricFiguresLib.pdb

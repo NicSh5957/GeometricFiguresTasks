@@ -1,0 +1,11 @@
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\bin\Debug\GeometriFiguresConsoleApp.exe.config
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\bin\Debug\GeometriFiguresConsoleApp.exe
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\bin\Debug\GeometriFiguresConsoleApp.pdb
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\obj\Debug\GeometriFiguresConsoleApp.csproj.AssemblyReference.cache
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\obj\Debug\GeometriFiguresConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\obj\Debug\GeometriFiguresConsoleApp.csproj.CoreCompileInputs.cache
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\obj\Debug\GeometriFiguresConsoleApp.exe
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\obj\Debug\GeometriFiguresConsoleApp.pdb
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\bin\Debug\GeometricFiguresLib.dll
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\bin\Debug\GeometricFiguresLib.pdb
+D:\Reps\GeometricFiguresTask\GeometriFiguresConsoleApp\obj\Debug\GeometriFiguresConsoleApp.csproj.CopyComplete
